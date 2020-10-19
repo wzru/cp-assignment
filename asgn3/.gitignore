@@ -1,0 +1,5 @@
+calc
+*.jpg
+
+*.tab.*
+lex.yy.c
