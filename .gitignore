@@ -1,1 +1,7 @@
 *.pdf
+*.zip
+
+calc/
+csql/
+csql_parser/
+pcsql/
